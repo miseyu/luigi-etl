@@ -1,0 +1,11 @@
+tmp/*
+log/*
+.direnv
+.git
+.envrc
+.DS_Store
+*.pyc
+.coverage
+.idea
+.python-version
+oz_analytics_dmp_etl.egg-info
